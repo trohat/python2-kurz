@@ -1,0 +1,28 @@
+1.) Napište funkci, která pozdraví a přivítá hosta (tedy vytiskne několik uvítacích vět).
+Několikrát ji zavolejte.
+
+2.) Napište funkci, která udělá to samé jako v předchozím příkladě, ale má jeden parametr - jméno.
+Hosta pozdraví jménem a v některé z dalších vět ho osloví.
+Funkci několikrát zavolejte, pokaždé s jiným jménem.
+
+3.) Napište funkci na násobení dvou čísel. Funkce vytiskne výsledek.
+(Opět ji nezapomeňte několikrát zavolat.)
+
+4.) Napište funkci na násobení dvou čísel. Funkce nic netiskne! Výsledek vraťte pomocí
+klíčového slova return. 
+Výsledek volání funkce uložte od proměnné.
+Funkci několikrát zavolejte.
+
+Zkuste ji použít na vypočítání výsledku 8 * 7 a na vypočítání 5 * 6. Oba výsledky uložte
+do proměnných a zkuste vypočítat výsledek vynásobení obou proměnných - výsledek opět uložte 
+do proměnné a vytiskněte. Mělo by vyjít 1680.
+
+5.) Napište funkci, která bere tři parametry. První a druhý parametr jsou čísla, se kterými se bude
+počítat. Třetí parametr určí operaci ( 1 - sčítání, 2 - odčítání, 3 - násobení). Nic se netiskne,
+výsledek se vrací pomocí return.
+
+6.) Bonus (pro nejrychlejší) - 
+Napište funkci kalkulacka (můžete použít kód z dřívějška) - funkce se vždy zeptá na dvě čísla a na 
+třetí číslo jako operaci. Operace je 0 - skončit, 1 - sčítání, 2 - odčítání atd. Po provedení 
+operace se vytiskne výsledek a kalkulačka se zeptá na další zadání. Skončí jen po zadání nuly jako 
+operace. Funkci zavolejte.
