@@ -1,0 +1,14 @@
+1. Napište funkci, která bere dva parametry (dvě čísla) a vypíše
+všechna čísla mezi nimi.
+Funkce je chytrá - pokud je druhé číslo větší, vypíše čísla vzestupně.
+Pokud je ale druhé číslo menší, vypíše je sestupně.
+
+2. Vypište funkce, která vezme dvě čísla a vypíše jejich podíl.
+Pokud podíl neexistuje, tak ohlásí, že nulou nelze dělit.
+
+3. úkoly jsou i v module 4 part 2, ale používají listy 
+(tak pouze pro pokročilé)
+
+4. Module 4 part 1 task 4 (najděte největší číslo ze 4
+čísel předaných jako parametry) - ale bez použití listů
+a funkcí na listech a bez použití funkce max
