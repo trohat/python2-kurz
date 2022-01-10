@@ -1,0 +1,10 @@
+1.) LIST - seznam
+
+2.) TUPLE - n-tice
+
+3.) DICTIONARY - slovníky
+
+4.) STRING - řetězce
+
+
+už známe: string, integer, float, boolean

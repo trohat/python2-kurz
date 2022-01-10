@@ -1,0 +1,8 @@
+1.) Napište funkci, která sečte čísla v listu, který dostane
+jako parametr.
+
+2.) Modul 4, part 2
+
+2.) Modul 3, part 2, task 3 (součet a průměr čísel v listu)
+
+4.) Modul 3 part 3 vše
