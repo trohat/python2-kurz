@@ -1,0 +1,12 @@
+DATOVÉ TYPY:
+
+1.) ČÍSELNÉ - integer, float, boolean
+
+2.) LIST - seznam a TUPLE - n-tice
+
+4.) DICTIONARY - slovníky
+
+5.) STRING - řetězce
+
+chybí zde pár věcí např. SET (množina)
+
