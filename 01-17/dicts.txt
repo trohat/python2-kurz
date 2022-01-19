@@ -44,9 +44,8 @@ hodnoty data jejich narození (vygooglete si, jak Python definuje datum).
 Nechte uživatele zadat jméno někoho z rodiny, a vypočítejte, jak je starý.
 
 
-tady je pro dnešek konec
 -------
-
+jedničku zatím přeskočte
 1.) Napište funkci, která vezme jako parametr větu (nějaká slova se 
 ve větě můžou opakovat)
 Funkce spočítá počet slov ve větě a vrátí ho jako slovník
