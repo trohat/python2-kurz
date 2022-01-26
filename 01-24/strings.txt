@@ -1,3 +1,23 @@
+Lehčí úkoly na rozcvičku:
+
+1.) Uložte do proměnné string s větou o několika slovech
+a) změňte všechna písmena ve větě na velká, string vytiskněte
+b) změňte všechna písmena ve větě na malá (opět vytiskněte)
+c) udělejte první písmeno ve větě velké (a vytiskněte)
+d) udělejte první písmeno každého slova ve větě velké (a tisk)
+
+e) udělejte ze stringu seznam 
+f) udělejte ze seznamu opět string, ale místo mezer budou pomlčky
+
+2.) použijte tento kód:
+retezec = "Já jsem velký slon a mám modré uši."
+a) zkuste v řetězci najít, na jakém indexu je slovo slon
+b) zkuste najít, jestli je v řetězci slovo hroch
+c) nahraďte slovo slon slovem nosorožec
+
+
+-------------------------------------------------------------
+
 1.) Vytvořte funkci, která vezme slovo 
 a vytvoří z něj slovo v Pig Latin
 a) Když slovo začíná samohláskou, přidá se na konec "way"

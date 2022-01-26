@@ -1,0 +1,19 @@
+1.) co mají společného stringy a listy
+a) jsou to sekvence
+b) dají se indexovat, tj. můžu použít string[0] nebo list[0]
+c) můžu použít string[2:5] nebo list[2:5] - tj. slicing
+d) dají se procházet pomocí for cyklu (tj. dá se přes ně iterovat)
+
+2.) v jaké důležité vlastnosti se stringy a listy liší
+a) hranaté závorky vs. uvozovky
+b) stringy se nedají měnit (immutable), listy ano
+
+3.) vyjmenuj tři metody pro práci se stringy a napiš co dělají
+(v nouzi můžete použít dokumentaci ale to asi nestihnete za těch 5 min :) )
+capitalize(), title(), replace(), lower(), split(), join()
+
+bonus: jaký datový typ vrací metoda string.isupper()
+boolean (tedy True, False)
+
+bonus: jaký datový typ vrací metoda string.upper()
+string
