@@ -1,0 +1,10 @@
+Pětiminutovka:
+
+Úkol:
+1.)Napište funkci, která vezme řetězec a vrátí stejně dlouhý 
+ řetězec.
+V novém řetězci budou ale písmenka seřazená podle abecedy.
+
+Bonus pro ty nejrychlejší:
+2.) Udělejte si list čísel, čísla se můžou opakovat.
+Pomocí setu zjistěte počet unikátních čísel.
