@@ -8,3 +8,7 @@ V novém řetězci budou ale písmenka seřazená podle abecedy.
 Bonus pro ty nejrychlejší:
 2.) Udělejte si list čísel, čísla se můžou opakovat.
 Pomocí setu zjistěte počet unikátních čísel.
+
+Procvičování listů:
+3.) Máme list, kde jsou čísla.
+Vytvořte nový list, kde jsou ta stejná čísla, ale každé je o jedna větší.

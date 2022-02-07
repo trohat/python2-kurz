@@ -1,14 +1,16 @@
-Cvičení na další část hodiny:
+0.) Vezměte třetí úkol z pětiminutovky a přepište ho pomocí
+list comprehension.
+
 1.) Napište funkci, která vrátí seznam s třetími mocninami všech čísel 
-v zadaném rozsahu.
+v zadaném seznamu.
 
 2.) Vytvořte funkci, která vezme seznam čísel (list of ints) a 
 vytvoří z nich řetězce.
 2b.) Vytvoří řetězce jen z těch čísel, co jsou menší než 15.
 
-3.) Sečtěte všechna čísla od 15 do 35 (můžete použít funcki sum).
+3.) Sečtěte všechna čísla od 15 do 35 (můžete použít funkci sum).
 
-4.) Napište funkci, která vezme čísla v zadaném rozsahu a 
+4.) Napište funkci, která vezme čísla v zadaném seznamu a 
 vrátí řetězec, kde jsou daná čísla oddělená čárkami.
 
 5.) Napište funkci, kter vezme řetězec, kde jsou čísla a 
