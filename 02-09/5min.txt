@@ -1,0 +1,15 @@
+Opakování z minula:
+1.) Máte řetězec "Slon je šedivý, má chobot a kly. Žije v Indii a Africe."
+Vyrobte z něho seznam, kde položky seznamu budou jednotlivá písmena v řetězci.
+
+
+K dnešní látce:
+2.) Použijte stejný řetězec. Zjistěte, na jaké pozici se v něm nachází slovo "chobot".
+
+3.) Jaké znáte metody pro vyhledávání v řetězci? Jaké mohou tyto metody
+ mít volitelné parametry? (Můžete používat internet.)
+
+4.) Pokud náhodou nemáte paměť jako slon a nevíte odpověď na minulou otázku z hlavy, kde si ji můžete najít?
+
+Super těžký BONUS:
+Zkuste jakkoliv zjistit, co to znamená, když se použije \d v regulárním výrazu (regulární výraz = regex).
