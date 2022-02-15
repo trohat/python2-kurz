@@ -3,13 +3,13 @@
 
 import re
 
-retezec = "Slon je šedivý, má chobot a kly. Jeho telefon je abcabc-123456. Žije v Africe."
+retezec = "Slon je šedivý, má chobot a kly. Jeho telefon je 777-123456. Žije v Africe."
 
 #print(retezec.find("chobot"))
 # \d = jakákoliv číslice
 # r = raw string
 
-regex = re.compile(r"(abc)-?(\d+)")
+regex = re.compile(r"(\d{3})-(\d{6})")
 
 vysledek = regex.search(retezec)
 print(vysledek.groups())
@@ -43,15 +43,31 @@ print(vysledek3.group())
 * - 0x - nekonečnokrát znak předtím
 | - nebo
 \d - číslice
-\w - číslice, písmeno nebo podtržítko
+\w - číslice, písmeno nebo podtržítko (word character)
 \s - bílý znak (mezera, tabulátor nebo nový řádek)
 \b - hranice slova
 ^ - začátek řetězce
 $ - konec řetězce
 () - skupina
-{} - kolikrát je ten znak předtím
-[] - výčet (tj. cokoliv ze znaků v závorkách)
-[^] - výčet, ale negace (tj. cokoliv kromě znaků v závorkách)
+{4} - kolikrát je ten znak předtím
+[abc] - výčet (tj. cokoliv ze znaků v závorkách)
+[^abc] - negovaný výčet (tj. cokoliv kromě znaků v závorkách)
 """
+
+regex5 = re.compile("chobot")
+
+vysledek5 = regex5.search("Veverka má zrzavý ocas.")
+
+#print(vysledek5.group())
+
+reg = re.compile(r"\d{3}-\d{3}-\d{3}\b")
+
+text = """RegExr was created by; gskinner.com, and is prou7dly hosted by Media Temple.
+
+123-234-232    +420 234-232-222"""
+
+vysl = reg.findall(text)
+
+print(vysl)
 
 
