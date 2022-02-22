@@ -1,0 +1,14 @@
+1.) Vytvořte slovník s následujícími daty:
+Pod klíčem jméno má hodnotu Pavel.
+Pod klíčem věk má hodnotu 29.
+Pod klíčem sporty má seznam (list), ve kterém jsou fotbal, basketball a hokej.
+Pod klíčem muž má hodnotu, která vyjadřuje "ano, je to muž".
+
+2.) Přidejte do slovníku klíč výška, který má hodnotu 176.
+(Prosím nepoužívat setdefault).
+
+3.) Vypište ze slovníku všechny hodnoty. (Pouze hodnoty!)
+
+4.) Vypište pouze klíče.
+
+5.) Vypište klíče a hodnoty zároveň.

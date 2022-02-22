@@ -1,0 +1,5 @@
+auto - 1
+motorka - 2
+autobus - 3 
+vlak - 4
+letadlo - 5

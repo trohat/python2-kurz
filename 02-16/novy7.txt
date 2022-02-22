@@ -1,0 +1,4 @@
+ahoj
+dobry den
+jak se mate
+Tohle je ctvrty radek souboru
