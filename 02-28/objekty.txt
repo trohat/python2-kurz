@@ -1,0 +1,21 @@
+OOP
+
+objektově orientované programování
+
+třída, instance (objekt)
+
+třída - vzor, otisk, blueprint (např. plán pro dům)
+
+instance - konkrétní objekt, konkrétní dům
+
+
+Objekty - vezmu něco z reálného světa 
+
+proměnné - jméno, věk, výška, povolání
+
+funkce - pozdrav, jdi_do_prace, vstavej
+
+metoda = funkce, která patří objektu
+
+proměnná, která patří objektu:
+členská proměnná, atribut, field
