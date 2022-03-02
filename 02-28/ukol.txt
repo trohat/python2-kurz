@@ -5,7 +5,7 @@ vodu na kolemjdoucí lidi. (co se na to používá?? stačí
 nám běžné funkce??)
 
 Vytvořte jednu instanci slona a uložte ho do proměnné.
-Nechte ho zatroubit, postříkat lidi.
+Nechte ho zatroubit a postříkat lidi.
 Vypište jeho jméno, pak ho přejmenujte a vypište nové jméno.
 
 Vytvořte druhou a třetí instanci slona. 
