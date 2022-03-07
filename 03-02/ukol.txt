@@ -2,7 +2,7 @@
 Nadefinujte třídu Auto. Auto má značku a motor. Jako motor se používá instance
 třídy motor.
 
-Motor i auto se umí hezky vypisovat.
+Motor i Auto se umí hezky vypisovat.
 
 Vytvořte několik instancí třídy auto a několik instancí třídy motor. Nějaké 
 motory uložte do proměnných, nějaké vytvořte přímo při vytváření aut.
@@ -12,7 +12,7 @@ které ho používá.
 
 2.) Vytvořte třídu Kniha. Kniha má jméno, autora a rok vydání.
 Vytvořte třídu PoliceNaKnihy. Do police se vejde neomezené množství knih.
-Vytvořte ve třídě metodu na přidávání knih (ať je nemusíte přidávat přímo.)
+Vytvořte ve třídě metodu na přidávání knih (ať je nemusíte přidávat ručně.)
 
 Zařiďte, ať se Kniha i PoliceNaKnihy hezky vypisuje.
 

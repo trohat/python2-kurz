@@ -1,0 +1,24 @@
+1.) Vytvořte třídu člověk. Člověk má jméno a věk. 
+Třída člověk si pamatuje (pomocí třídní proměnné), kolik lidí už bylo vytvořeno.
+
+2.) Vytvořte několik lidí a vypište (pomocí třídní proměnné), kolik lidí už bylo vytvořeno.
+
+3.) Vypisovat třídní proměnnou sice umíte a jde to, ale nemusí to být v každém případě
+úplně ideální postup. Vypište počet vytvořených lidí pomocí metody přímo ve třídě člověk.
+Zkuste použít běžnou instanční metodu (ta se na to příliš nehodí, ale stejně si to zkuste), 
+dále zkuste statickou metodu a třídní metodu. Jaké jsou mezi nimi rozdíly?
+
+4.) Otázky z TEORIE:
+a) Jak se liší statická a třídní metoda, vzhledem k počtu parametrů?
+b) K čemu je dobrý parametr "cls" ve třídní metodě?
+c) Na co se odkazuji pomocí "self.__class__"?
+
+Příště budeme brát: DĚDIČNOST
+
+Přehled (to neřešte, to je pro mě):
+OOP 1 - úvod - metody __init__, __str__, rozdíl mezi třídou a instancí, rozdíl mezi atributem a
+proměnnou, metodou a funkcí
+OOP 2 - kompozice objektů
+OOP 3 - statika (třídní proměnné, @staticmethod, @classmethod)
+OOP 4 - dědičnost
+OOP 5 - velký úkol
