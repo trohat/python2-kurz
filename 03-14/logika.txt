@@ -1,0 +1,8 @@
+Dvě základní vazby:
+
+"is-a", tedy česky "je", od slovesa být - ano, tady se hodí dědičnost
+pes je zvíře, papoušek je zvíře, papoušek je pták, ara je papoušek, programátor je člověk
+
+
+"has-a", tedy česky "má", od slovesa mít - tady se dědičnost nehodí, použijte kompozici objektů
+např. auto má motor, klec má zvířata, zoo má klece

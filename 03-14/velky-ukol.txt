@@ -30,6 +30,7 @@ Vytvořte třídu Zoo. Do zoo se vejde několik klecí. Vytvořte metodu pridej_
 (Vsuvka pro pokročilé: metoda pridej_klec umí přidat několik klecí najednou.)
 
 Třída Zoo se umí hezky vypisovat (vypíše klece i zvířata v nich).
+
 Vytvořte metodu vypis_podle_barvy, která projde celé zoo (všechny klece a zvířata v nich) a vypíše jen
 zvířata s určitou barvou (barvu dostane jako parametr).
 Vytvořte metodu vypis_podle_nohou, která projde celé zoo (všechny klece a zvířata v nich) a vypíše jen
@@ -42,6 +43,7 @@ Vytvořte instanci třídy Zoo a užijte si ji. Vytvořte instance zvířat (pok
 do klecí dejte zvířata a klece dejte do zoo. Vypište si zvířata podle barev, podle počtu nohou 
 a nezapomeňte spočítat počet ponožek pro sponzora!
 
+--------------------------------------------------------------------------------------------
 
 Poznámka k importům:
 
