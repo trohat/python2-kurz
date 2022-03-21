@@ -1,0 +1,21 @@
+Úkol na NumPy a matplotlib:
+
+1.) Vytvořte šest polí čísel. Všechny čísla od jedné do dvaceti, 
+pak ta samá čísla, ale o jedna větší, pak o dva větší, pak o tři větší,
+o čtyři větší a o pět větší.
+(Pokud nechcete pracovat s NumPy, můžou to být i pytonovské listy.)
+
+2.) Vytvořte graf v matplotlibu. Ukažte na něm všech šest polí čísel pod sebou.
+Odlište je barvou, stylem čáry, vyzkoušejte různou šířku čáry. 
+Nastavte grafu titulek, popis osy X a Y. Titulku a popiskům nastavte
+velikost fontu a barvu. Nasvtavte velikost popisků na osách.
+Nastavte jednotlivým čarám popisky a zobrazte legendu.
+
+3.) Najděte si (třeba na w3schools), jak nastavovat nějaké z věcí 
+z předchozího bodu. Např. styl čáry se dá nastavit celým slovem i zkratkou
+a i jeho hodnoty mají celá slova nebo zkratky. 
+Najděte si pár zkratek a vyzkoušejte je.
+
+4.) (Volitelné, spíše pro zábavu.) 
+Projděte si barevné mapy v dokumentaci matplotlibu a některé z nich použijte
+v kódu, co jsme dělali na hodině.
