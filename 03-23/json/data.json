@@ -1,0 +1,23 @@
+{
+    "jmeno": "Petr",
+    "vek": 23,
+    "cislo": 25.0,
+    "sporty": [
+        "fotbal",
+        "basketbal",
+        "hokej"
+    ],
+    "pije pivo": true,
+    "znamky": [
+        1,
+        1,
+        2,
+        3,
+        5
+    ],
+    "domaci zvire": {
+        "jmeno": "Rex",
+        "rasa": "labrador",
+        "povolani": "hlidac"
+    }
+}

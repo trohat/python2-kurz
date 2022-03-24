@@ -1,0 +1,13 @@
+csv - comma separated values
+(oddělovač nemusí být vždy čárka,
+může být i třeba | nebo tabulátor
+- u tabulátorů lze použít zkratku 
+tsv)
+
+příklady:
+Anna,Google,23,50000
+Jana|Microsoft|46|70000  - též formát csv
+Pavla   Mozilla 56  60000 - formát csv(tsv)
+
+
+['jmeno', 'pracoviste', 'vek', 'plat'],
