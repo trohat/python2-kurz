@@ -3,7 +3,7 @@
 1.) Vytvořte šest polí čísel. Všechny čísla od jedné do dvaceti, 
 pak ta samá čísla, ale o jedna větší, pak o dva větší, pak o tři větší,
 o čtyři větší a o pět větší.
-(Pokud nechcete pracovat s NumPy, můžou to být i pytonovské listy.)
+(Pokud nechcete pracovat s NumPy, můžou to být i pythonovské listy.)
 
 2.) Vytvořte graf v matplotlibu. Ukažte na něm všech šest polí čísel pod sebou.
 Odlište je barvou, stylem čáry, vyzkoušejte různou šířku čáry. 
