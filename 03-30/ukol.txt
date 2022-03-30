@@ -1,0 +1,20 @@
+1.) Zkuste stáhnout webovou stránku z adresy www.paluba.cz.
+
+2.) Vytvořte z ní Beautiful Soup object.
+
+3.) Pomocí metody na soup objectu najděte div s id wrap.
+
+4.) Pořádně si stránku prohlédněte a zjistěte, jaké třídy mají jednotlivé položky
+menu.
+
+5.) Zkuste jednotlivé položky menu nějak získat pomocí metod na soup objectu.
+
+6.) Vypište jejich text.
+
+7.) Vypište obsah jejich href atributů.
+
+8.) (Delší úkol na procvičení)
+Najděte si nějakou jinou STATICKOU stránku, která se dá scrapovat. Získejte z ní nějaká zajímavá data.
+
+9.) Pročtěte si aspoň kousek dokumentace o Beautiful Soup. Na jaké další zajímavé metody jste
+narazili?

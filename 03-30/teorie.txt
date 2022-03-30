@@ -1,0 +1,22 @@
+web scraping
+
+scrapování webu
+
+1.) každá stránka je unikátní
+
+2.) každá stránka se mění
+
+pokud je API, použijte API! (ušetříte si tím dost práce)
+
+query string: ?klic1=hodnota1&klic2=hodnota2
+
+Odkazy:
+https://realpython.com/beautiful-soup-web-scraper-python/
+
+Scrapování dynamických stránek:
+https://realpython.com/modern-web-automation-with-python-and-selenium/
+https://docs.python-requests.org/projects/requests-html/en/latest/
+https://selenium-python.readthedocs.io/
+
+
+
