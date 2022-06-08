@@ -1,0 +1,21 @@
+jak iteruje FOR cyklus?
+
+zdálo by se, že pomocí indexů, ale to není
+pravda
+
+pomocí indexů lze iterovat SEKVENCE,
+což jsou listy, stringy, tuples
+(SEKVENCE = něco, do čeho se dá indexovat)
+
+for cyklus umí procházet třeba i množiny,
+slovníky, soubory
+
+ITERATOR PROTOCOL
+
+ITERÁTOR - pozná se tak, že na něm lze volat next(),
+a nevyhodí to chybu (kromě StopIteration, která znamená konec
+cyklu)
+
+ITERABLE = pozná se tak, že na ní lze volat iter(), což vrátí ITERÁTOR
+často to bývají sekvence (stringy, listy), ale můžou to být i jiné věci (sety,
+slovníky, soubory)
