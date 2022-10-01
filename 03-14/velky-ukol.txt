@@ -67,7 +67,7 @@ pes.Pes
 
 3.) from pes import *
 
-pak můžu používat třídu Pes přímo, ale viz další řádek
+pak můžu používat třídu Pes přímo, ale nese to s sebou problémy - viz další řádek
 nedělejte to - nedoporučuje se - děláte si pak ve věcech nepořádek
 
 

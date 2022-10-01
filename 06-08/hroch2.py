@@ -16,15 +16,7 @@ class Hroch:
         return self.delka_ocasu * other.delka_ocasu
 
     def __iter__(self):
-        self.vlastnosti = list(self.__dict__.keys())
-        self.index = -1
-        return self
-
-    def __next__(self):
-        self.index += 1
-        if self.index >= len(self.vlastnosti):
-            raise StopIteration
-        return self.vlastnosti[self.index]
+        return iter(self.__dict__)
 
     def __str__(self):
         return f"Jsem {self.jmeno} a mám {self.delka_ocasu}cm dlouhý ocas."

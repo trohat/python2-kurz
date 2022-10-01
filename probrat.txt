@@ -1,0 +1,8 @@
+iterators, iterables
+
+context management
+
+lambda funkce
+
+dekorátory
+
